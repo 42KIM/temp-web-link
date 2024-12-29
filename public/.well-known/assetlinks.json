@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.notiyou",
+    "sha256_cert_fingerprints": [
+      "2C:F5:B9:71:93:AA:E1:3D:EE:8F:A7:9A:3E:47:64:79:17:AD:91:B0:AF:BB:D2:38:5E:9E:10:6D:5D:DC:EF:B7"
+    ]
+  }
+}]
