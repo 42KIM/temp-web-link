@@ -9,11 +9,6 @@
         "paths": [
           "*"
         ],
-        "components": [
-          {
-            "/": "/invite/*"
-          }
-        ]
       }
     ]
   },
