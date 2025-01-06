@@ -6,9 +6,7 @@
         "appIDs": [
           "FSPV9YZ3G8.com.example.notiyou2"
         ],
-        "paths": [
-          "*"
-        ]
+        "paths": ["/invite/*"]
       }
     ]
   },
