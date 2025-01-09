@@ -1,7 +1,7 @@
-import {redirect} from "next/navigation";
+// import {redirect} from "next/navigation";
 
 function InvitePage() {
-    redirect('https://play.google.com/store')
+    // redirect('https://play.google.com/store')
 
     return (
         <div>redirecting...</div>
