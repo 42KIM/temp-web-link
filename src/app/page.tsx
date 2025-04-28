@@ -88,10 +88,6 @@ export default function Home() {
         <p className="mb-1">
           &copy; 2025 Greenonion Corp. All rights reserved.
         </p>
-        <p className="text-sm text-gray-500 mt-1">
-          *(위에 `[개발사 또는 팀 이름]`과 연도를 맞게 수정하고, 선택 사항
-          정보를 추가/삭제하세요.)*
-        </p>
       </footer>
     </div>
   );
